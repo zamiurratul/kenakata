@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="macbooks">
+        <item>MacBook Pro</item>
+        <item>MacBook Air</item>
+        <item>MacBook Ultra</item>
+        <item>MacBook Server</item>
+        <item>MacBook Mini</item>
+        <item>MacBook Metro</item>
+        <item>MacBook X M Pro</item>
+        <item>MacBook X M Air</item>
+        <item>MacBook X M Ultra</item>
+        <item>MacBook X M Server</item>
+        <item>MacBook X M Mini</item>
+        <item>MacBook X M Metro</item>
+    </string-array>
+</resources>
